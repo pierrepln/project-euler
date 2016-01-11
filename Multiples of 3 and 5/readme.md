@@ -1,3 +1,4 @@
+##Project Euler
 Hello world ! I am solving some Project Euler problems on https://projecteuler.net/
 
 The Project Euler policy https://projecteuler.net/about asks to not share solutions publicly.
@@ -10,7 +11,9 @@ I will be happy to discuss it with you if your request seems fair enough.
 
 Good luck to you all in this great challenge !
 
-#Multiples of 3 and 5
+##Multiples of 3 and 5
+
+I used Java to solve this problem.
 
 To request my code email me at pierrepl@ntie.fr
 Please include why it is fair to share my code with you.
