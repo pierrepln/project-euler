@@ -9,4 +9,4 @@ Each directory will be named after the corresponding problem.
 As I won't share any code publicly, please contact me at pierrepl@ntie.fr if you are interested in seeing my solution.
 I will be happy to discuss it with you if your request seems fair enough.
 
-Good luck to you all in this great challenge!
+Good luck to you all in this great challenge !
